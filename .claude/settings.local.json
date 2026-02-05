@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node test_fetch.js:*)",
+      "Bash(node fetch_extension_names.js:*)"
+    ]
+  }
+}
