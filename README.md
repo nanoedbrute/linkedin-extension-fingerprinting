@@ -1,10 +1,10 @@
 # LinkedIn Chrome Extension Fingerprinting
 
-LinkedIn uses browser extension detection as part of their fingerprinting strategy. This repository documents the Chrome extensions LinkedIn checks for and provides tools to identify them.
+LinkedIn silently probes for 2,953 Chrome extensions on every page load.
 
-## Background
+# Background
 
-LinkedIn's javascript contains a list of 2,953 Chrome extension IDs that are probed during page load. This can be used for browser fingerprinting - identifying users based on their installed extensions - although it might just be for market research.
+This repository documents every extension LinkedIn checks for and provides tools to identify them.
 
 ## Data
 
